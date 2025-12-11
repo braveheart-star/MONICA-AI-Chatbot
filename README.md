@@ -1,5 +1,9 @@
 # MONICA AI Chatbot
 
+
+https://github.com/user-attachments/assets/903ecda5-896c-4904-8451-4cc6596f5463
+
+
 Speech-enabled AI chatbot built for Monica. It focuses on voice-first interactions while keeping text chat available as a fallback.
 
 ## Features
